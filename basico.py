@@ -1,6 +1,5 @@
 
 
-
 # AND -> True, false
 
 #print(True and True)
